@@ -1,0 +1,3 @@
+﻿  Teste.cpp
+c:\users\flavi\source\repos\l3q1\l3q1\teste.cpp(3): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  L3Q1.vcxproj -> C:\Users\flavi\source\repos\L3Q1\Debug\L3Q1.exe
